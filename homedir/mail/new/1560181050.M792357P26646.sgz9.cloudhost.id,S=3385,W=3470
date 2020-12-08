@@ -1,0 +1,85 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id cNOXLjp5/lwWaAAAZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Mon, 10 Jun 2019 23:37:30 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Mon, 10 Jun 2019 23:37:30 +0800
+Received: from mailnull by sgz9.cloudhost.id with local (Exim 4.92)
+	id 1haMMU-0007V3-Bn
+	for paguyuba@sgz9.cloudhost.id; Mon, 10 Jun 2019 23:37:30 +0800
+X-Failed-Recipients: paguyubankseusu1819@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sgz9.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1560181050-eximdsn-1556455613
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1haMMU-0007V3-Bn@sgz9.cloudhost.id>
+Date: Mon, 10 Jun 2019 23:37:30 +0800
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1560181050-eximdsn-1556455613
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  paguyubankseusu1819@gmail.com
+    host 4403.smtp.antispamcloud.com [46.165.217.142]
+    SMTP error from remote mail server after MAIL FROM:<paguyuba@sgz9.cloudhost.id> SIZE=1886 AUTH=paguyuba@sgz9.cloudhost.id:
+    550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+    550-Called:   103.134.152.1
+    550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+    550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+    550-550 authenticate and try again.
+    550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1560181050-eximdsn-1556455613
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sgz9.cloudhost.id
+
+Action: failed
+Final-Recipient: rfc822;paguyubankseusu1819@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 4403.smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+ 550-Called:   103.134.152.1
+ 550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+ 550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+ 550-550 authenticate and try again.
+ 550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1560181050-eximdsn-1556455613
+Content-type: message/rfc822
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.92)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1haMLl-0005Hd-8r
+	for paguyubankseusu1819@gmail.com; Mon, 10 Jun 2019 23:36:45 +0800
+To: paguyubankseusu1819@gmail.com
+Subject: [Paguyuban KSE USU] Pendaftaran Pengguna Baru
+X-PHP-Script: paguyubankseusu.org/wp-admin/admin-ajax.php for 193.29.187.116
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Mon, 10 Jun 2019 15:36:45 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <bafaf20383442f83a06c9ff4cbf79f0b@paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Pendaftaran pengguna baru pada situs Anda Paguyuban KSE USU:
+
+Nama pengguna: solarsalvador1234@gmail.com
+
+Email: solarsalvador1234@gmail.com
+
+
+--1560181050-eximdsn-1556455613--

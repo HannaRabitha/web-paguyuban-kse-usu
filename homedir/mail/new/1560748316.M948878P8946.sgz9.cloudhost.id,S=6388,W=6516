@@ -1,0 +1,128 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id IJWzNxwhB13yIgAAZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Mon, 17 Jun 2019 13:11:56 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Mon, 17 Jun 2019 13:11:56 +0800
+Received: from lancar.cloudhost.id ([103.134.152.236]:49376)
+	by sgz9.cloudhost.id with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	id 1hcjvw-0002fh-MW
+	for paguyuba@sgz9.cloudhost.id; Mon, 17 Jun 2019 13:11:56 +0800
+Received: from Debian-exim by lancar.cloudhost.id with local (Exim 4.89)
+	id 1hcjvt-0004cN-SO
+	for paguyuba@sgz9.cloudhost.id; Mon, 17 Jun 2019 13:11:54 +0800
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@lancar.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1560748313-eximdsn-578571884
+MIME-Version: 1.0
+Subject: Warning: message 1hcJDh-0006QN-1e delayed 24 hours
+Message-Id: <E1hcjvt-0004cN-SO@lancar.cloudhost.id>
+Date: Mon, 17 Jun 2019 13:11:53 +0800
+X-From-Rewrite: unmodified, no actual sender determined from check mail permissions
+
+--1560748313-eximdsn-578571884
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+A message that you sent has not yet been delivered to one or more of its
+recipients after more than 24 hours on the queue on lancar.cloudhost.id.
+
+The message identifier is:     1hcJDh-0006QN-1e
+The subject of the message is: [Paguyuban KSE USU] Atur Ulang Sandi
+The date of the message is:    Sun, 16 Jun 2019 00:40:27 +0000
+
+The address to which the message has not yet been delivered is:
+
+  workspace@kleverandeverbever.top
+    host us3.mx1.mailhostbox.com [199.79.63.224]
+    Delay reason: SMTP error from remote mail server after RCPT TO:<workspace@kleverandeverbever.top>:
+    450-4.7.1 <workspace@kleverandeverbever.top>:
+    Recipient address rejected: Policy Rejection- Recipient Quota Exceeded.
+    450 4.7.1 Please see http://support.mailhostbox.com/email-administrators-guide-error-codes/ for explanation of the problem.
+
+No action is required on your part. Delivery attempts will continue for
+some time, and this warning may be repeated at intervals if the message
+remains undelivered. Eventually the mail delivery software will give up,
+and when that happens, the message will be returned to you.
+
+--1560748313-eximdsn-578571884
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; lancar.cloudhost.id
+
+Action: delayed
+Final-Recipient: rfc822;workspace@kleverandeverbever.top
+Status: 4.0.0
+Remote-MTA: dns; us3.mx1.mailhostbox.com
+Diagnostic-Code: smtp; 450-4.7.1 <workspace@kleverandeverbever.top>: Recipient address rejected: Policy Rejection- Recipient Quota Exceeded.
+ 450 4.7.1 Please see http://support.mailhostbox.com/email-administrators-guide-error-codes/ for explanation of the problem.
+
+--1560748313-eximdsn-578571884
+Content-type: text/rfc822-headers
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from sgz9.cloudhost.id ([103.134.152.1])
+	by lancar.cloudhost.id with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hcJDh-0006QN-1e
+	for workspace@kleverandeverbever.top; Sun, 16 Jun 2019 08:41:18 +0800
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sgz9.cloudhost.id; s=default; h=Content-Type:MIME-Version:Message-ID:From:
+	Date:Subject:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=o0S3MCX48Z+dodU/A70aFJJr5cSYWqD9+tDyOqFilvE=; b=VG1m6pQj8dR384PhOGrecLxPaW
+	saFDIsnQBIsiPNlSC/TQV6/RHhcNdm90dvixxhedT39famglBmHFdsUgX89br9IMCqpV1Lxueoygq
+	Pz0mVuWwOF6TnXFnHquHzgXqOxsuwLVMYwW5Yh4HShxm1nPxkbdycUkV+P4HXOo9ZmEG4SJuKf25Y
+	BhpOPmFTu9e/vA7TZCBNOa7lacQUG6goDPgmxfuZ27icMZpBBxQ4HPPJtVevAyiYuez97XKxAqsv3
+	Tqarvfdq/9SZU19KHzvb7uXVs8/RW4l7s8nIUBFPkUtVDSmM/Sh2hAoT9aw3hXREsTpboDQWo2kk1
+	+FfJEaIQ==;
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.92)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hcJDf-0008QH-TX
+	for workspace@kleverandeverbever.top; Sun, 16 Jun 2019 08:40:29 +0800
+To: workspace@kleverandeverbever.top
+Subject: [Paguyuban KSE USU] Atur Ulang Sandi
+X-PHP-Script: paguyubankseusu.org/wp-login.php for 107.170.23.212
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Sun, 16 Jun 2019 00:40:27 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <d5ba0d75656ee1a123fc98fa94cc746d@paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-OutGoing-Spam-Status: No, score=0.3
+X-AuthUser: paguyuba@sgz9.cloudhost.id
+X-Originating-IP: 103.134.152.1
+X-SpamExperts-Domain: masuk.web.id
+X-SpamExperts-Username: sgz9
+Authentication-Results: cloudhost.id; auth=pass (login) smtp.auth=sgz9@masuk.web.id
+X-SpamExperts-Outgoing-Class: ham
+X-SpamExperts-Outgoing-Evidence: Combined (0.22)
+X-Recommended-Action: accept
+X-Filter-ID: Mvzo4OR0dZXEDF/gcnlw0Q9DGisTdy29Heef28Cu3sipSDasLI4SayDByyq9LIhV7naZ3Fg2Jijr
+ Cothtwe3x0TNWdUk1Ol2OGx3IfrIJKywOmJyM1qr8uRnWBrbSAGDKCOtNHxveYqI0Imw7YHXYQGF
+ BNJjLwK+uWpUh/EAnuystDgauYUKVnz6N5DBYpwB5qbQ+RQW7Ek1ObMyVHwweePRpqIDRatSTIiG
+ 2/cGnleuBkVDDBoKzSPKiEctquI3FoN5k2iSC1yfMcyc7NFFMw0nANnzfNCyjyhxUQ5n/cAGhpNo
+ nruIYm5BY72sYolvgVEeXnYoEfNG1wlw3fxQLIMX08ePtGPNxYO8Z7egx+1mG5CFkiqHUBInsLjI
+ TrZi98TYaHYS5ef8McTHWoQqRzb/VjOV6n0ieHdp2MbiPvxi+c7hsoKCTC+oQAKuFFopjY218mUC
+ Y8H5d5a4d/oTY5QFkvPDBC3C6GRb5BGsG6lWKA6RnuuxBTXzcEGvs7AfRKy3E+SEC6yq3y5Aem99
+ JCCv9TR+UxzLZWL8hwGBjhpZiSI8iqP6W0g0TSBDhMJTHM/O93CEccjdbgvvryCrwio34teYKBjn
+ u3qB/nXos0iyqPO7FADiQ8n7yql8SMhrOxpyRkl7SiiYJLJ9Krj63YFmGIytCx18a6Ckn9Mk4dsH
+ OoeYXm6iTr1Fy+yTc7tKS23F+qPD0BebeVd7tId+OIsEMysPur9wmiDBurOy6iTF90hjeU3Lv4w8
+ CPyxYIibHbJPyIw9iyYI8dp8/KZQfYYZzRsUGAlynrzMXA+6RZuEaXYR4/0OypXTTeWYNGp8tH8j
+ UnCrZvCoLgjPHp5XVWbP4Ix2hsEBgqQBdEw3dvB+pvlHhV6a5QjptwQBGybQJi6gXWGNu8FO7/Qw
+ kdsMJmcOG6a54vgFVAuYxdJz9YgvmmurEUaGT1TWCd90IrmQqrHhZUGxqdk3/iFSPRjwb7tD4EfW
+ xqB5aBy2/NQf3NEOXjCuA3fwbKJQ4XM5ech0
+X-Report-Abuse-To: spam@lancar.cloudhost.id
+
+
+--1560748313-eximdsn-578571884--

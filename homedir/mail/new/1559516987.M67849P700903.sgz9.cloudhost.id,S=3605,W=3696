@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id mEV+AztX9FznsQoAZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Mon, 03 Jun 2019 07:09:47 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Mon, 03 Jun 2019 07:09:47 +0800
+Received: from mailnull by sgz9.cloudhost.id with local (Exim 4.92)
+	id 1hXZbm-003In0-MU
+	for paguyuba@sgz9.cloudhost.id; Mon, 03 Jun 2019 07:09:46 +0800
+X-Failed-Recipients: dreamsbadtoyou2@airmail.cc
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sgz9.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1559516986-eximdsn-1075352240
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hXZbm-003In0-MU@sgz9.cloudhost.id>
+Date: Mon, 03 Jun 2019 07:09:46 +0800
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1559516986-eximdsn-1075352240
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  dreamsbadtoyou2@airmail.cc
+    host 4403.smtp.antispamcloud.com [209.126.110.250]
+    SMTP error from remote mail server after MAIL FROM:<paguyuba@sgz9.cloudhost.id> SIZE=2120 AUTH=paguyuba@sgz9.cloudhost.id:
+    550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+    550-Called:   103.134.152.1
+    550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+    550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+    550-550 authenticate and try again.
+    550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559516986-eximdsn-1075352240
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sgz9.cloudhost.id
+
+Action: failed
+Final-Recipient: rfc822;dreamsbadtoyou2@airmail.cc
+Status: 5.0.0
+Remote-MTA: dns; 4403.smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+ 550-Called:   103.134.152.1
+ 550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+ 550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+ 550-550 authenticate and try again.
+ 550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559516986-eximdsn-1075352240
+Content-type: message/rfc822
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.92)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hXZb3-003HfB-0l
+	for dreamsbadtoyou2@airmail.cc; Mon, 03 Jun 2019 07:09:01 +0800
+To: dreamsbadtoyou2@airmail.cc
+Subject: [Paguyuban KSE USU] Atur Ulang Sandi
+X-PHP-Script: paguyubankseusu.org/wp-login.php for 163.44.207.60
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Sun, 2 Jun 2019 23:09:00 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <020e5ee9827df06104519ba37aa3c1f8@paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Seseorang telah meminta atur ulang sandi untuk akun berikut:
+
+Nama Situs: Paguyuban KSE USU
+
+Nama pengguna: dreamsbadtoyou2@airmail.cc
+
+Jika ini adalah sebuah kesalahan, abaikan email ini dan tidak ada yang akan terjadi.
+
+Untuk mengatur ulang sandi Anda, kunjungi alamat berikut:
+
+<http://www.paguyubankseusu.org/wp-login.php?action=rp&key=5Fu1qGkFioyX5qGCBhin&login=dreamsbadtoyou2%40airmail.cc>
+
+
+--1559516986-eximdsn-1075352240--

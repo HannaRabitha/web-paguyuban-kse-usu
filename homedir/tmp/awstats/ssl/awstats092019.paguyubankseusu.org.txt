@@ -1,0 +1,1099 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/paguyuba/tmp/awstats/ssl/awstats.paguyubankseusu.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2693                
+POS_VISITOR 18598               
+POS_DAY 29777               
+POS_DOMAIN 3638                
+POS_LOGIN 4069                
+POS_ROBOT 4224                
+POS_WORMS 4980                
+POS_EMAILSENDER 5111                
+POS_EMAILRECEIVER 5254                
+POS_SESSION 30647               
+POS_SIDER 30856               
+POS_FILETYPES 5389                
+POS_DOWNLOADS 5712                
+POS_OS 5760                
+POS_BROWSER 5973                
+POS_SCREENSIZE 12119               
+POS_UNKNOWNREFERER 12193               
+POS_UNKNOWNREFERERBROWSER 12666               
+POS_ORIGIN 13049               
+POS_SEREFERRALS 13193               
+POS_PAGEREFS 13460               
+POS_SEARCHWORDS 13733               
+POS_KEYWORDS 13932               
+POS_MISC 2357                
+POS_ERRORS 14048               
+POS_CLUSTER 3925                
+POS_SIDER_404 14216               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001000924 6 959 8984532983955
+FirstTime 20190901012533
+LastTime 20190930185141
+LastUpdate 20191001213232 6 0 5 0 0
+TotalVisits 415                 
+TotalUnique 170                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 329                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 8 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 51 573 15294426 131 288 8631233
+1 25 160 3517106 119 297 9007788
+2 20 169 3521761 82 207 9317715
+3 21 243 7254901 98 203 8418896
+4 26 260 8459685 109 287 10696738
+5 10 71 1221797 76 201 9653730
+6 22 298 5921929 84 171 5826386
+7 37 425 10786297 112 297 11527953
+8 50 532 12253335 73 139 6261180
+9 32 310 10637398 91 276 5567649
+10 45 599 15699010 75 166 8890988
+11 37 465 9851625 136 203 8230165
+12 29 517 11313777 89 226 7678651
+13 46 552 12072524 113 237 12236477
+14 39 397 10738427 134 299 10337061
+15 31 358 10482577 150 308 18781125
+16 46 694 22273908 106 213 8506587
+17 51 707 21380465 77 136 5917818
+18 44 785 17234967 61 165 6691227
+19 46 563 11193961 76 319 18428243
+20 58 759 22058262 67 160 3993215
+21 64 1007 28219151 56 210 16475509
+22 53 619 12037604 177 312 11523541
+23 35 514 10269966 66 277 31361749
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+id 456 4818 142452490
+us 195 5530 120772442
+in 168 229 5168352
+cn 62 960 24673287
+fr 12 13 247523
+ro 9 9 3627
+bz 4 4 9926
+kr 3 3 94856
+ru 3 4 164121
+it 2 2 23484
+br 1 1 0
+jp 1 1 0
+gb 1 1 11740
+ca 1 1 36689
+my 0 1 36322
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+bingbot/ 1504 94164337 20190930205517 48
+Googlebot/ 806 12554764 20190930183316 46
+spider 763 18925209 20190921002642 0
+AhrefsBot/ 454 33645172 20190930235723 30
+YandexBot/ 389 12533515 20190930084448 144
+bingpreview 330 16600027 20190929232723 0
+MJ12bot/ 301 34453938 20190921104619 7
+link 250 2337574 20190904163457 80
+Googlebot\-Image/ 233 14785733 20190929190258 0
+YandexMobileBot/ 48 775536 20190908193432 0
+bot[\s_+:,\.\;\/\\-] 17 1146565 20190928172952 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 0 20190928182529 0
+2345Explorer/ 2 7664 20190904071141 0
+unknown 1 70 20190912040430 1
+YandexImages/ 1 1158363 20190919214521 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 3988 42899800 0 0
+env 1 11737 0 0
+xml 8 94042 0 0
+png 1050 23375076 0 0
+jpg 991 127331557 0 0
+html 366 5275691 0 0
+gif 10 44060 0 0
+woff 3 291496 0 0
+ttf 214 1775232 0 0
+jpeg 177 13172888 0 0
+php 186 89641 0 0
+js 4443 68640391 0 0
+woff2 140 10693248 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+win10 837 88
+win8.1 80 8
+win8 1 1
+linux 48 17
+win7 664 69
+winxp 3 1
+macosx11 2 2
+macosx 5 0
+linuxandroid 9644 547
+ios_iphone 112 6
+Unknown 181 179
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 252
+chrome45.0.8411.1674 1 0
+chrome59.0.1795.1908 1 0
+chrome41.0.2542.1727 1 0
+chrome42.0.5727.1246 1 0
+chrome39.0.5966.1253 1 0
+msie6.0 1 1
+chrome49.0.4248.1461 1 0
+chrome60.0.6379.1990 1 0
+chrome76.0.3809.103 5 0
+chrome58.0.4905.1373 1 0
+chrome41.0.9172.1536 1 0
+chrome42.0.4859.1829 1 0
+chrome55.0.3674.1068 1 0
+chrome43.0.5662.1028 1 0
+chrome41.0.3336.1331 1 0
+chrome46.0.3562.1789 1 0
+firefox61.0 110 6
+chrome55.0.7558.1076 1 0
+chrome50.0.2661.89 54 5
+chrome56.0.5745.1404 1 0
+msie11.0 2 0
+chrome58.0.1332.1688 1 0
+firefox62.0 5 5
+chrome53.0.6468.1446 1 0
+chrome45.0.2604.1236 1 0
+chrome59.0.5452.1211 1 0
+chrome44.0.9423.1509 1 0
+chrome51.0.9095.1766 1 0
+chrome39.0.4798.1631 1 0
+chrome41.0.2856.1832 1 0
+chrome54.0.5357.1750 1 0
+chrome49.0.7327.1154 1 0
+chrome44.0.3393.1764 1 0
+Unknown 179 177
+chrome47.0.6366.1591 1 0
+chrome51.0.6380.1723 1 0
+chrome39.0.5584.1820 1 0
+chrome39.0.3358.1496 1 0
+chrome43.0.2357.93 95 9
+chrome40.0.1275.1195 1 0
+chrome49.0.2905.1163 1 0
+chrome41.0.3621.1670 1 0
+chrome34.0.1847.131 1 1
+chrome42.0.3441.1871 1 0
+chrome49.0.7657.1866 1 0
+chrome48.0.2422.1064 1 0
+chrome55.0.3243.1349 1 0
+chrome57.0.5389.1081 1 0
+chrome44.0.8290.1246 1 0
+chrome51.0.2081.1017 1 0
+chrome52.0.9699.1334 1 0
+chrome77.0.3865.92 242 20
+chrome75.0.3770.143 96 10
+ibrowse 6 0
+chrome52.0.8211.1542 1 0
+chrome55.0.2883.91 54 5
+chrome43.0.5534.1472 1 0
+chrome53.0.2013.1326 1 0
+chrome62.0.3202.84 86 10
+chrome50.0.5262.1398 1 0
+chrome58.0.1075.1351 1 0
+firefox43.0 1 0
+safari10.0 68 6
+chrome43.0.2110.1034 1 0
+chrome48.0.1344.1827 1 0
+chrome42.0.4069.1554 1 0
+chrome46.0.3072.1427 1 0
+chrome46.0.1948.1319 1 0
+chrome64.0.3282.137 59 5
+chrome51.0.1858.1469 1 0
+chrome50.0.9259.1493 1 0
+chrome46.0.2023.1985 1 0
+chrome60.0.9509.1328 1 0
+chrome56.0.1162.1266 1 0
+chrome42.0.6642.1541 1 0
+chrome47.0.9875.1380 1 0
+chrome43.0.4846.1264 1 0
+firefox11.0 2 0
+chrome57.0.6056.1723 1 0
+chrome55.0.4231.1201 1 0
+chrome73.0.3683.90 195 21
+chrome46.0.9239.1585 1 0
+chrome52.0.5073.1882 1 0
+chrome54.0.7522.1248 1 0
+chrome49.0.5775.1601 1 0
+chrome44.0.5804.1017 1 0
+firefox64.0 4 4
+chrome46.0.2490.80 1 1
+chrome54.0.1061.1269 1 0
+chrome44.0.9556.1529 1 0
+chrome40.0.6173.1114 1 0
+edge16 1 0
+chrome53.0.8255.1864 1 0
+chrome72.0.3626.105 208 19
+chrome77.0.3865.90 3 0
+chrome53.0.8071.1877 1 0
+chrome39.0.4486.1429 1 0
+chrome53.0.8966.1093 1 0
+chrome55.0.9351.1116 1 0
+chrome57.0.3242.1714 1 0
+chrome43.0.1706.1659 1 0
+chrome76.0.3809.111 43 5
+chrome41.0.5581.1218 1 0
+chrome39.0.4135.1784 1 0
+chrome43.0.4773.1529 1 0
+chrome42.0.1921.1241 1 0
+chrome39.0.8505.1543 1 0
+chrome36.0.1985.143 3 3
+chrome54.0.6393.1607 1 0
+chrome48.0.4677.1151 1 0
+chrome59.0.9848.1440 1 0
+chrome59.0.9071.1923 1 0
+chrome50.0.4249.1599 1 0
+chrome59.0.6561.1684 1 0
+chrome54.0.5528.1170 1 0
+chrome49.0.7716.1662 1 0
+chrome42.0.3787.1831 1 0
+chrome49.0.2009.1752 1 0
+firefox52.0 4 4
+chrome66.0.3359.170 1 1
+chrome41.0.6822.1104 1 0
+chrome38.0.1025.166 5288 143
+chrome53.0.9504.1099 1 0
+chrome43.0.4701.1565 1 0
+chrome41.0.8353.1336 1 0
+chrome58.0.3206.1378 1 0
+chrome57.0.6511.1334 1 0
+chrome52.0.1442.1711 1 0
+chrome47.0.5207.1997 1 0
+chrome43.0.2880.1080 1 0
+chrome69.0.3494.0 1 0
+chrome42.0.6783.1347 1 0
+chrome45.0.6458.1531 1 0
+chrome53.0.2785.124 44 5
+chrome58.0.8734.1865 1 0
+chrome40.0.2214.109 60 4
+chrome51.0.1658.1532 1 0
+chrome70.0.3538.110 5 0
+chrome39.0.7858.1432 1 0
+chrome58.0.3812.1241 1 0
+chrome45.0.2949.1016 1 0
+chrome51.0.1641.1233 1 0
+chrome60.0.2438.1678 1 0
+chrome49.0.2623.75 2 1
+chrome44.0.4660.1995 1 0
+chrome76.0.3809.89 322 29
+chrome75.0.3770.101 343 33
+chrome63.0.3239.132 2 2
+chrome45.0.4768.1463 1 0
+opera51.3.2461.138727 80 9
+chrome52.0.1832.1504 1 0
+chrome52.0.8439.1168 1 0
+chrome75.0.3770.89 41 4
+chrome71.0.3578.141 204 18
+chrome44.0.8379.1464 1 0
+chrome41.0.2701.1526 1 0
+chrome39.0.6804.1782 1 0
+chrome72.0.3626.121 42 5
+chrome57.0.2987.108 113 10
+chrome46.0.2490.85 59 8
+chrome39.0.7806.1470 1 0
+chrome76.0.3809.132 1730 159
+chrome50.0.5007.1199 1 0
+chrome47.0.7947.1193 1 0
+chrome47.0.1264.1648 1 0
+chrome49.0.7265.1440 1 0
+chrome41.0.6807.1408 1 0
+chrome51.0.3222.1495 1 0
+chrome59.0.1340.1288 1 0
+chrome74.0.3729.136 65 6
+chrome53.0.5008.1560 1 0
+chrome46.0.3435.1229 1 0
+chrome69.0.3497.100 64 6
+opera49.0.2711.0 4 4
+chrome57.0.8311.1949 1 0
+chrome52.0.5313.1856 1 0
+chrome48.0.9179.1622 1 0
+chrome48.0.2086.1178 1 0
+chrome47.0.6066.1386 1 0
+chrome49.0.6478.1683 1 0
+chrome47.0.9822.1641 1 0
+chrome39.0.8016.1297 1 0
+chrome74.0.3729.157 192 20
+chrome57.0.5238.1153 1 0
+chrome53.0.4536.1759 1 0
+chrome44.0.8573.1630 1 0
+firefox65.0 1 1
+firefox18.0 9 9
+chrome55.0.2573.1300 1 0
+chrome41.0.5344.1980 1 0
+chrome39.0.5243.1518 1 0
+chrome67.0.3396.99 4 0
+chrome54.0.3884.1224 1 0
+chrome44.0.4038.1807 1 0
+chrome68.0.3440.91 28 1
+chrome41.0.5620.1207 1 0
+chrome54.0.8838.1323 1 0
+chrome56.0.8761.1370 1 0
+chrome73.0.3683.86 1 0
+chrome48.0.5746.1636 1 0
+chrome49.0.1513.1340 1 0
+chrome47.0.2289.1798 1 0
+opera63.0.3368.71 52 4
+firefox69.0 451 31
+chrome77.0.3865.73 161 18
+chrome60.0.3112.113 72 5
+chrome59.0.3071.125 68 5
+chrome42.0.8887.1902 1 0
+chrome44.0.4695.1390 1 0
+chrome39.0.4167.1897 1 0
+chrome58.0.8403.1455 1 0
+chrome59.0.5786.1736 1 0
+chrome50.0.8201.1615 1 0
+chrome51.0.6799.1699 1 0
+chrome51.0.8706.1481 1 0
+chrome40.0.3223.1774 1 0
+chrome48.0.3140.1672 1 0
+chrome63.0.3236.0 1 0
+chrome66.0.3359.181 21 21
+chrome48.0.6153.1668 1 0
+chrome44.0.5157.1489 1 0
+chrome49.0.2201.1485 1 0
+chrome42.0.6631.1641 1 0
+chrome54.0.5101.1748 1 0
+chrome43.0.7887.1432 1 0
+chrome48.0.4160.1520 1 0
+chrome46.0.1960.1825 1 0
+chrome38.0.2125.102 46 6
+chrome55.0.3657.1385 1 0
+chrome39.0.2568.1649 1 0
+chrome42.0.6919.1635 1 0
+chrome53.0.2911.1270 1 0
+chrome46.0.7508.1000 1 0
+chrome58.0.1709.1660 1 0
+chrome47.0.8983.1059 1 0
+chrome46.0.2635.1126 1 0
+chrome56.0.8178.1912 1 0
+opera12.17 1 1
+chrome53.0.9497.1783 1 0
+firefox47.0 2 2
+chrome71.0.3578.99 152 17
+chrome39.0.9171.1959 1 0
+chrome60.0.6237.1470 1 0
+android 2 1
+chrome54.0.4189.1896 1 0
+firefox68.0 49 4
+chrome55.0.6452.1905 1 0
+mozilla 2 2
+chrome44.0.7735.1713 1 0
+chrome41.0.4403.1086 1 0
+chrome44.0.2403.133 80 6
+chrome54.0.5918.1015 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WordPress/4.9.10;_https://www.paguyubankseusu.org 20190905182846
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190905152620
+python-requests/2.22.0 20190925090105
+WordPress/4.9.11;_https://www.paguyubankseusu.org 20190930185143
+WhatsApp/2.19.244_A 20190920220638
+WordPress/4.9.11;_http://www.paguyubankseusu.org 20190923071905
+Go-http-client/2.0 20190930050835
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WordPress/4.9.10;_https://www.paguyubankseusu.org 20190905182846
+python-requests/2.22.0 20190925090105
+WordPress/4.9.11;_https://www.paguyubankseusu.org 20190930185143
+WhatsApp/2.19.244_A 20190920220638
+WordPress/4.9.11;_http://www.paguyubankseusu.org 20190923071905
+Go-http-client/2.0 20190930050835
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 230 453
+From1 0 0
+From2 111 199
+From3 3 5
+From4 574 10920
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+google_com 0 1
+www_google_com 107 189
+bing 0 1
+www_google_co_id 3 4
+id_search_yahoo_com 1 1
+id_images_search_yahoo_com 0 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://cpanel.paguyubankseusu.org/wp-login.php 2 2
+http://webmail.paguyubankseusu.org/wp-login.php 1 1
+http://domain.com 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+karya+salemba+empat+usu 1
+gps+sampah+dimulai 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 7
+sampah 1
+usu 1
+gps 1
+karya 1
+empat 1
+salemba 1
+dimulai 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+404 211 4456904
+401 14 626
+302 4 0
+400 7 67
+405 3 144
+206 16 6411382
+403 3 3417
+301 227 617
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 101
+/my.sql 2 https://paguyubankseusu.org:443//my.sql
+/wp.sql 2 https://paguyubankseusu.org:443//wp.sql
+/magento/rss/catalog/review 1 -
+/test/rss/catalog/notifystock 1 -
+/old/errors/503.php 1 -
+/store/rss/catalog/review 1 -
+/store/rss/catalog/notifystock 1 -
+/shop/rss/order/new 1 -
+/shop/errors/503.php 1 -
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-brands-400.svg 1 -
+/staging/admin/ 1 -
+/xsql.sql 1 https://paguyubankseusu.org:443//xsql.sql
+/test.sql 1 https://paguyubankseusu.org:443//test.sql
+/store/downloader/ 1 -
+/staging/downloader/ 1 -
+/paguyubankseusu.org.sql 1 https://paguyubankseusu.org:443//paguyubankseusu.org.sql
+/script.sql 1 https://paguyubankseusu.org:443//script.sql
+/shop/rss/catalog/review 1 -
+/shop/admin/ 1 -
+/magento/admin/ 1 -
+/test/downloader/ 1 -
+/site.sql 1 https://paguyubankseusu.org:443//site.sql
+/old/rss/order/new 1 -
+/old/admin/ 1 -
+/magento/rss/catalog/notifystock 1 -
+/table.sql 2 https://paguyubankseusu.org:443//table.sql
+/demo/admin/ 1 -
+/123.sql 3 https://paguyubankseusu.org:443//123.sql
+/a.sql 1 https://paguyubankseusu.org:443//a.sql
+/~www.sql/ 1 https://paguyubankseusu.org:443/~www.sql/
+/demo/rss/catalog/review 1 -
+/w.sql 1 https://paguyubankseusu.org:443//w.sql
+/store/rss/order/new 1 -
+/store/errors/503.php 1 -
+/bdata.sql 1 https://paguyubankseusu.org:443//bdata.sql
+/phpmyadmin.sql 2 https://paguyubankseusu.org:443//phpmyadmin.sql
+/demo/rss/catalog/notifystock 1 -
+/rss/order/new 1 -
+/wordpress.sql 1 https://paguyubankseusu.org:443//wordpress.sql
+/3 1 https://paguyubankseusu.org/3
+/sql.sql 3 https://paguyubankseusu.org:443//sql.sql
+/old/downloader/ 1 -
+/old/rss/catalog/review 1 -
+/demo/rss/order/new 1 -
+/magento/downloader/ 1 -
+/demo/errors/503.php 1 -
+/store/admin/ 1 -
+/staging/rss/catalog/review 1 -
+/paguyubankseusu123.sql 2 https://paguyubankseusu.org:443//paguyubankseusu123.sql
+/paguyubankseusu.sql 13 https://paguyubankseusu.org:443//paguyubankseusu.sql
+/adm.sql 1 https://paguyubankseusu.org:443//adm.sql
+/shop/downloader/ 1 -
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-regular-400.svg 22 -
+/shop/rss/catalog/notifystock 1 -
+/rss/catalog/review 1 -
+/post.sql 1 https://paguyubankseusu.org:443//post.sql
+/staging/rss/catalog/notifystock 1 -
+/dev/admin/ 1 -
+/dev/rss/order/new 1 -
+/rss/catalog/notifystock 1 -
+/dev/downloader/ 1 -
+/paguyubankseusu.org1.sql 1 https://paguyubankseusu.org:443//paguyubankseusu.org1.sql
+/2019/05/03/bina-desa-paguyuban-kse-usu-episode-4/ 1 -
+/webdata.sql 1 https://paguyubankseusu.org:443//webdata.sql
+/wp-config.php~ 2 https://paguyubankseusu.org/wp-config.php~
+/dev/rss/catalog/notifystock 1 -
+/b.sql 1 https://paguyubankseusu.org:443//b.sql
+/staging/errors/503.php 1 -
+/exp.sql 1 https://paguyubankseusu.org:443//exp.sql
+/dev/rss/catalog/review 1 -
+/old/rss/catalog/notifystock 1 -
+/staging/rss/order/new 1 -
+/1.sql 1 https://paguyubankseusu.org:443//1.sql
+/base.sql 1 https://paguyubankseusu.org:443//base.sql
+/back.sql 2 https://paguyubankseusu.org:443//back.sql
+/x.sql 1 https://paguyubankseusu.org:443//x.sql
+/conf.sql 1 https://paguyubankseusu.org:443//conf.sql
+/dev/errors/503.php 1 -
+/ads.txt 37 -
+/2 2 https://paguyubankseusu.org/2
+/web.sql 1 https://paguyubankseusu.org:443//web.sql
+/weblog.sql 1 https://paguyubankseusu.org:443//weblog.sql
+/.well-known/assetlinks.json 12 -
+/test/rss/order/new 1 -
+/test/errors/503.php 1 -
+/errors/503.php 1 -
+/magento/rss/order/new 1 -
+/dev.sql 1 https://paguyubankseusu.org:443//dev.sql
+/tables.sql 3 https://paguyubankseusu.org:443//tables.sql
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-solid-900.svg 15 -
+/demo/downloader/ 1 -
+/cgi-bin/paguyubankseusu.org.sql 1 https://paguyubankseusu.org:443//cgi-bin/paguyubankseusu.org.sql
+/admin.sql 2 https://paguyubankseusu.org:443//admin.sql
+/posts.sql 1 https://paguyubankseusu.org:443//posts.sql
+/db.sql 1 https://paguyubankseusu.org:443//db.sql
+/blogs.sql 1 https://paguyubankseusu.org:443//blogs.sql
+/111.sql 2 https://paguyubankseusu.org:443//111.sql
+/magento/errors/503.php 1 -
+/test/rss/catalog/review 1 -
+/downloader/ 1 -
+/test/admin/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 329
+103.134.152.1 162 162 0 20190930185143
+66.102.6.26 37 1071 21455394 20190930120429
+66.102.6.24 25 1062 20211260 20190928235305
+66.102.6.22 21 993 19285081 20190930185141
+202.57.8.175 17 174 10235245 20190925042122
+51.254.121.111 12 12 141027 20190925091630
+180.251.2.99 12 85 5137204 20190909212046
+202.80.212.200 11 92 3379011 20190913230447
+66.249.83.22 10 293 8964347 20190923160506
+182.1.32.216 10 83 1512572 20190916184913
+158.140.187.230 9 117 971617 20190913230115
+89.35.39.180 9 9 3627 20190904071205
+116.206.31.57 9 66 1902162 20190902202323
+112.215.230.226 9 80 2437222 20190921090328
+180.251.48.75 9 91 942893 20190915221722
+202.0.107.125 9 72 2021004 20190928171333
+125.161.104.169 8 70 3057146 20190919212018
+114.124.168.61 8 59 1991763 20190919005920
+203.78.116.253 8 103 2555968 20190926205617
+66.102.6.194 8 93 1531851 20190903192917
+115.178.221.215 8 75 3700856 20190903105628
+116.206.30.62 7 85 1897711 20190928190310
+203.78.116.166 7 72 5198813 20190903075541
+114.122.10.117 7 46 772111 20190904143103
+180.242.223.180 7 83 1268852 20190905162853
+64.233.172.54 0 1 13893 
+54.203.56.25 1 1 19404 20190919164018
+3.87.208.199 0 1 943497 
+182.1.206.88 4 47 722120 20190914041944
+220.243.135.204 0 1 9984 
+182.1.47.76 0 4 227382 
+220.243.135.191 0 2 2261 
+202.67.40.213 1 1 13618 20190917145110
+220.243.136.212 0 1 58967 
+220.243.136.133 0 6 68783 
+220.243.135.31 0 1 2896 
+114.125.169.81 5 57 1684123 20190919080825
+116.206.30.39 0 5 228584 
+182.1.91.198 4 47 796798 20190920211955
+193.70.34.209 2 2 23484 20190927231032
+125.165.221.28 0 1 155744 
+220.243.136.190 0 1 58967 
+203.78.116.234 0 1 163424 
+220.243.135.106 0 3 89562 
+180.241.44.81 0 5 228319 
+116.206.30.53 0 10 986389 
+220.243.136.162 0 1 358 
+95.165.218.58 2 2 13120 20190906215133
+64.233.172.186 0 1 1010 
+103.54.0.2 4 58 944640 20190913132221
+64.233.172.26 1 3 17859 20190925032231
+110.159.243.79 0 1 36322 
+220.243.135.192 0 2 67453 
+140.213.70.52 2 2 22766 20190914210149
+114.125.24.54 5 65 3760871 20190905154307
+220.243.136.2 0 1 358 
+66.249.88.122 0 16 548169 
+114.125.46.239 4 65 2317548 20190909215027
+182.1.14.80 0 8 454764 
+66.102.6.182 0 2 4648 
+66.249.88.151 1 91 1386299 20190919095334
+116.206.31.47 1 43 124544 20190930130338
+220.243.135.35 0 1 13278 
+66.102.6.78 0 15 238978 
+182.0.235.52 4 66 1224469 20190917182444
+120.188.82.130 6 64 898491 20190920232020
+34.220.118.67 1 1 19396 20190910120639
+220.243.136.94 0 1 58967 
+220.243.135.103 0 2 61737 
+103.10.67.153 0 1 83005 
+203.78.120.46 6 58 1839004 20190901081104
+220.243.135.226 0 1 5146 
+220.243.136.224 0 1 1329 
+180.241.44.113 6 80 1769752 20190918011231
+66.102.8.118 1 38 843413 20190929113417
+52.88.31.26 1 1 19396 20190911095201
+66.102.8.122 4 41 527050 20190927013732
+220.243.136.232 0 1 798 
+64.233.172.86 0 3 40994 
+220.243.136.215 0 1 11319 
+188.165.243.162 0 1 106496 
+112.215.230.4 4 41 513262 20190909083035
+182.253.114.66 4 40 663975 20190920114207
+66.249.88.148 3 83 1698561 20190929101032
+112.215.230.199 4 42 856019 20190927223849
+66.102.6.222 2 79 3451007 20190901230506
+34.216.123.102 1 1 19413 20190902101450
+114.4.213.243 0 1 36322 
+220.243.136.196 0 3 103029 
+203.78.119.128 4 42 713187 20190928104334
+220.243.135.166 0 2 110298 
+116.206.31.51 6 63 1889440 20190925084320
+220.243.136.102 0 2 30426 
+220.243.136.153 0 1 17652 
+220.243.135.78 0 1 11710 
+66.102.6.192 2 90 1669661 20190902180131
+115.178.237.165 4 63 1295420 20190918233431
+203.78.116.172 1 1 0 20190927104345
+220.243.135.202 0 3 64855 
+66.102.6.80 0 15 315617 
+110.249.201.24 0 1 36322 
+167.71.93.245 1 1 36676 20190905152620
+220.243.136.13 0 2 11910 
+104.227.246.106 1 1 36688 20190903052751
+18.236.217.87 1 1 19396 20190921160930
+34.222.80.218 1 1 19272 20190930100052
+116.206.36.28 4 43 717225 20190914024059
+139.219.8.226 0 1 9912 
+220.243.135.105 0 1 4929 
+114.125.170.175 0 1 56163 
+116.206.38.59 7 177 8007320 20190921202512
+116.206.38.56 6 67 1325400 20190916115610
+202.80.218.145 6 110 7061193 20190913173327
+203.78.120.121 5 54 1062297 20190923141358
+110.249.202.89 0 1 110700 
+54.188.10.229 1 1 19393 20190908095106
+180.254.148.219 0 1 83005 
+101.255.54.53 5 72 4311702 20190909170011
+114.122.139.116 4 47 796794 20190921063800
+220.243.135.2 0 1 531 
+45.12.220.232 2 2 2849 20190909225242
+64.233.172.218 0 2 21661 
+182.255.2.13 0 1 1031562 
+114.5.213.200 0 2 864240 
+103.94.213.4 0 1 155268 
+52.35.208.94 1 1 19417 20190906082731
+180.241.44.36 0 1 187620 
+103.212.43.204 6 65 4976762 20190917140907
+182.0.178.150 6 46 1804503 20190909135215
+220.243.136.160 0 1 22580 
+220.243.136.106 0 4 18799 
+64.233.172.214 0 1 11331 
+138.99.216.224 4 4 9926 20190923230927
+220.243.136.20 0 2 48745 
+66.102.6.81 1 13 101394 20190925062856
+220.243.136.192 0 3 43875 
+220.243.136.191 0 2 33925 
+103.25.166.186 4 43 693894 20190923081403
+173.236.72.146 1 1 11748 20190916062118
+64.233.172.88 0 2 72458 
+203.78.116.105 5 44 892898 20190910185115
+64.233.172.56 0 1 558 
+220.243.135.10 0 1 50524 
+66.249.83.26 7 307 6191771 20190927185737
+115.178.218.184 1 1 10456 20190915221710
+114.5.146.29 5 44 1111428 20190923105114
+220.243.135.36 0 1 1127 
+220.243.135.133 0 4 35798 
+66.102.7.154 6 168 4021176 20190925191421
+220.243.135.212 0 1 2896 
+202.67.42.42 5 42 1773406 20190919202042
+220.243.136.216 0 2 12068 
+182.1.71.39 5 41 776547 20190916175034
+203.78.120.204 4 47 796803 20190918122051
+115.178.223.174 6 50 748037 20190912000934
+114.124.180.67 4 60 1265860 20190911203042
+220.243.136.78 0 1 17652 
+116.206.30.52 0 1 198510 
+116.206.30.37 0 6 232725 
+220.243.135.153 0 2 1678 
+220.243.136.97 0 1 2833 
+175.126.62.37 3 3 94856 20190912022931
+202.154.185.180 5 45 799677 20190902140159
+140.213.11.222 5 42 779151 20190901132421
+220.243.136.202 0 1 786 
+220.243.136.149 0 1 6433 
+220.243.136.166 0 4 41546 
+115.178.222.145 6 48 1016788 20190929142803
+36.72.252.35 5 41 776473 20190930160205
+220.243.135.196 0 5 58691 
+66.102.7.157 3 140 2682107 20190929201645
+220.243.135.225 0 1 17652 
+185.234.217.41 1 1 11737 20190913170118
+64.233.172.245 0 1 1535 
+220.243.136.223 0 1 7846 
+220.243.135.102 0 1 1304 
+210.57.214.106 0 1 187620 
+140.213.16.199 6 62 1075582 20190916131421
+220.243.135.25 0 1 1202 
+182.0.205.143 4 48 800842 20190920222750
+180.241.124.62 0 5 228584 
+182.1.73.178 0 1 110700 
+54.187.160.236 1 1 19408 20190922134910
+64.233.172.249 0 1 3676 
+182.0.236.83 6 46 1262818 20190913215459
+35.240.189.61 1 1 11742 20190916010437
+64.233.173.184 0 8 418058 
+198.27.70.61 1 1 36689 20190902081716
+116.206.31.40 5 43 1168782 20190927000018
+220.243.135.165 0 1 863 
+112.215.230.219 5 50 963260 20190918123227
+220.243.135.232 0 2 144033 
+66.102.6.144 0 1 9020 
+116.206.31.49 5 43 835969 20190901122502
+220.243.135.157 0 1 6433 
+36.69.234.131 4 49 753270 20190902203241
+54.184.191.89 1 1 19412 20190924110825
+220.243.136.146 0 3 9457 
+36.65.252.64 6 43 779181 20190909113034
+34.220.180.236 1 1 19396 20190913110410
+18.237.204.62 1 1 19409 20190907094034
+34.214.242.222 1 1 19281 20190930050835
+220.243.136.86 0 1 2777 
+220.243.136.128 0 4 16245 
+18.237.61.69 1 1 19386 20190921082401
+115.178.218.234 4 56 727034 20190911163029
+54.190.193.13 1 1 19395 20190909100242
+66.102.6.118 0 2 6837 
+66.249.88.120 1 17 569105 20190907003646
+112.215.230.154 0 1 157821 
+66.102.6.122 0 2 5455 
+220.243.136.244 0 1 104632 
+182.1.14.74 4 48 800834 20190925030410
+220.243.136.169 0 3 16241 
+220.243.135.228 0 2 53580 
+115.178.223.205 5 46 1347655 20190924184907
+116.206.38.51 1 27 333781 20190916001321
+220.243.135.43 0 4 14955 
+220.243.135.199 0 2 4360 
+34.220.171.154 1 1 19400 20190902131803
+64.233.173.186 0 3 735576 
+182.1.73.103 3 4 63659 20190920220637
+18.236.204.229 1 1 19372 20190918134703
+103.10.67.173 4 52 1385517 20190913204446
+220.243.136.40 0 4 37033 
+128.199.242.144 1 1 11740 20190906093907
+158.140.187.252 7 73 5216870 20190902000034
+114.125.40.85 4 41 855280 20190910002906
+115.178.219.130 0 1 83005 
+140.213.18.197 5 46 823035 20190912202923
+112.215.241.123 4 48 800847 20190914045404
+34.222.234.175 1 1 19397 20190912090207
+36.76.95.17 5 68 2523603 20190904133409
+114.122.133.164 1 1 11142 20190921162633
+52.12.143.239 1 1 19415 20190925090606
+34.220.222.101 1 1 19406 20190917095440
+220.243.135.83 0 3 7663 
+116.206.31.54 5 42 871348 20190907194727
+139.217.194.152 0 1 5615 
+186.202.161.191 1 1 0 20190907172018
+220.243.135.181 0 4 11627 
+66.102.6.142 0 1 487 
+220.243.136.70 0 3 96686 
+220.243.136.69 0 1 798 
+220.243.136.99 0 1 11710 
+66.249.83.24 6 331 10018602 20190930103725
+36.90.18.244 0 1 36322 
+66.102.7.156 1 161 2846092 20190927171430
+220.243.135.139 0 2 4238 
+220.243.135.66 0 2 6543 
+220.243.135.141 0 3 4602 
+220.243.136.65 0 1 470 
+34.222.127.201 1 1 19399 20190915150512
+114.122.101.19 4 43 717223 20190923223644
+66.249.88.145 2 85 1575910 20190928090555
+112.215.229.156 6 75 1229217 20190928191642
+180.253.131.46 5 45 870103 20190924165750
+115.178.218.130 5 42 721888 20190916001648
+61.94.56.45 5 47 829102 20190928044830
+54.189.56.191 1 1 19394 20190920120950
+64.233.172.216 0 5 136438 
+220.243.135.209 0 8 298806 
+139.217.198.76 0 1 5615 
+64.233.172.90 0 1 36322 
+220.243.135.245 0 1 5146 
+66.102.6.249 0 2 33503 
+125.160.200.226 6 68 5381449 20190917090917
+220.243.135.118 0 1 6579 
+220.243.135.76 0 3 54311 
+114.125.173.120 4 48 800843 20190926221915
+220.243.135.143 0 1 3117 
+167.71.242.158 1 1 36676 20190905042415
+220.243.136.129 0 2 3047 
+34.212.152.105 1 1 19391 20190924082245
+115.178.203.70 0 1 937 
+118.97.180.130 0 1 155268 
+66.102.8.120 1 39 835508 20190914125427
+182.1.96.200 5 40 1670440 20190917194738
+64.233.173.182 0 1 59027 
+160.16.232.76 1 1 0 20190907172013
+220.243.136.43 0 5 49475 
+120.188.5.183 0 1 36322 
+180.241.46.225 6 204 6549049 20190929213443
+220.243.135.169 0 5 152060 
+220.243.136.119 0 1 2896 
+182.1.4.205 5 42 871345 20190910174953
+220.243.135.146 0 3 17468 
+220.243.136.157 0 1 5146 
+103.105.28.24 0 1 36322 
+220.243.136.127 0 1 6433 
+5.44.170.66 0 1 139264 
+114.125.111.104 0 1 950926 
+220.243.135.128 0 1 66983 
+18.237.139.183 1 1 19418 20190906113120
+180.244.97.231 5 42 780417 20190920061527
+114.125.230.67 0 1 432959 
+180.251.0.128 5 47 897225 20190906112516
+110.249.202.3 0 1 110700 
+140.213.52.170 4 48 800836 20190920231304
+35.163.10.28 1 1 19397 20190901130600
+220.243.136.209 0 5 35459 
+120.188.6.238 5 42 780585 20190917152455
+220.243.136.73 0 1 863 
+66.102.6.247 0 1 5246 
+220.243.135.65 0 1 31804 
+120.188.67.212 4 41 710990 20190910082123
+110.137.22.45 0 6 232990 
+220.243.136.42 0 1 13278 
+220.243.135.70 0 2 14705 
+60.191.38.77 2 2 73364 20190925135924
+115.178.204.246 4 49 736265 20190928163019
+66.96.237.164 0 1 187620 
+115.178.250.231 0 2 1086089 
+180.254.76.155 5 63 1968569 20190904102200
+34.219.104.108 1 1 19390 20190916102508
+182.1.205.178 4 58 919796 20190907024545
+220.243.136.66 0 1 60951 
+66.249.88.118 1 15 104448 20190907010034
+220.243.136.139 0 1 2833 
+118.99.100.66 1 1 17230 20190925123132
+220.243.135.99 0 1 3117 
+203.78.116.22 6 66 1429807 20190927154252
+220.243.135.69 0 2 114902 
+116.206.43.112 4 49 736265 20190912000943
+114.124.140.134 4 48 800829 20190923144857
+107.178.231.231 0 1 1202 
+66.102.6.145 0 1 7855 
+220.243.136.83 0 3 65116 
+162.243.37.188 2 2 94856 20190912023142
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 35 286 8473021 18
+20190902 34 331 10979281 14
+20190903 29 229 9899418 11
+20190904 38 280 7875702 11
+20190905 23 368 10388504 11
+20190906 18 95 1606114 12
+20190907 22 301 6382955 14
+20190908 6 68 1130222 6
+20190909 55 552 20190841 15
+20190910 27 408 8570762 11
+20190911 22 330 7150816 15
+20190912 34 314 6293075 19
+20190913 37 551 15543699 11
+20190914 23 319 6147821 13
+20190915 16 270 3866110 8
+20190916 46 567 9577846 18
+20190917 30 321 14634067 9
+20190918 28 423 8540628 12
+20190919 47 670 17266786 19
+20190920 48 665 13075883 24
+20190921 34 552 15809656 16
+20190922 9 217 6246403 8
+20190923 39 394 14204131 20
+20190924 23 327 6726144 13
+20190925 55 600 19098642 22
+20190926 29 354 7014519 12
+20190927 31 412 7619594 18
+20190928 45 667 13807453 15
+20190929 16 458 11525651 7
+20190930 19 248 4049115 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 9
+0s-30s 346
+5mn-15mn 8
+30s-2mn 21
+30mn-1h 20
+15mn-30mn 7
+1h+ 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 70
+/wp-cron.php 162 0 130 130
+/wp-content/themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.ttf 99 513296 0 55
+/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.ttf 98 1148976 0 0
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-solid-900.woff2 97 7558280 0 6
+/ 84 1676508 67 57
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-brands-400.woff2 42 3120096 0 8
+/profil/tentang-yayasan-kse/ 40 483423 34 19
+/2019/ 29 377717 26 20
+/profil/ 20 221186 16 11
+/profil/tentang-paguyuban/ 17 189430 13 8
+/2019/07/08/kse2019/ 16 241594 10 8
+/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf 14 99904 0 0
+/2019/06/19/pengumuman-lolos-seleksi-online-seleksi-tahap-i-beasiswa-yayasan-karya-salemba-empat/ 14 175895 10 5
+/event/lkti-kse-usu-2019/ 11 114985 8 2
+/pendaftaran/ 10 108881 3 6
+/xmlrpc.php 10 4030 2 2
+/wp-login.php 9 85611 6 8
+/2019/05/13/tentang-aku-dan-kse/ 9 138383 7 3
+/2019/06/22/wawancara-beasiswa-kse-paguyuban-kse-usu/ 8 91813 7 6
+/2019/05/05/dibalik-uang-600-ribu-3/ 7 94268 7 4
+/2019/05/14/karya-salemba-empat-dan-rahasia-dibalik-uang-600-ribu/ 6 70484 3 3
+/2019/05/12/dibalik-uang-600-ribu-dan-apa-arti-kse-bagiku/ 6 80031 4 5
+/2019/03/09/penerimaan-beasiswa-2019-2020/ 6 93611 4 3
+/galeri/ 5 86531 2 2
+/blog/ 5 111251 4 2
+/.env 1 11737 1 1
+/tag/kse/ 1 10623 0 0
+/wp-admin/ 1 0 1 0
+/2019/03/03/tikar-medical-check-dan-aksi-dana-toss-2019-paguyuban-kse-usu/ 1 12969 1 1
+/blog/informasi/ 3 46841 2 1
+/vendor/phpunit/phpunit/build.xml 4 47020 1 1
+/wp-includes/wlwmanifest.xml 4 47022 0 0
+/2019/05/01/dibalik-uang-600-ribu/ 3 40796 2 1
+/2019/03/01/toss-2019-paguyuban-kse-usu/ 2 14181 2 1
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-solid-900.woff 2 204448 0 0
+/tag/seleksi-beasiswa/ 1 10212 1 1
+/author/paguyubankseusu/page/2/ 2 26115 2 2
+/2019/05/03/dibalik-uang-600-ribu-2/ 2 13768 1 1
+/2019/05/08/the-power-of-600k/ 1 14300 1 0
+/category/informasi/ 3 38871 1 3
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-brands-400.woff 1 87048 0 0
+/tag/artikel/ 1 12826 1 0
+/profil/struktur-paguyuban/ 3 32508 1 0
+/author/paguyubankseusu/page/3/ 1 14878 1 1
+/2019/page/2/ 1 13213 0 0
+/components/ 4 46985 0 0
+/galeri/album/ 1 14816 0 0
+/2019/05/10/dibalik-uang-600-ribu-7/ 3 42325 3 1
+/event/ 2 18899 0 1
+/tag/arti-kse/ 2 20319 2 1
+/dt_gallery/closing-bina-desa/ 1 12487 0 1
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-regular-400.woff2 1 14872 0 1
+/2019/09/27/743/ 4 54094 0 0
+/author/paguyubankseusu/ 1 17230 1 1
+/blog/artikel/ 3 50520 3 2
+/faq/ 4 43054 2 3
+/tag/open-recruitment/ 2 20708 2 1
+/category/artikel/ 1 13107 1 1
+/2019/04/20/gerakan-pungut-sampah-gps-gerakan-tanam-sayur-se-nusantara-gtsn-paguyuban-kse-usu/ 2 27148 2 1
+/wp-content/themes/dt-the7/fonts/icomoon-the7-gallery-32x32/fonts/icomoon-the7-photo-32x32.ttf 3 13056 0 2
+/2019/05/04/bina-desa-paguyuban-kse-usu-episode-4/ 1 12949 1 1
+/2019/05/16/closing-bina-desa/ 4 60652 2 2
+/category/kegiatan/ 4 56808 4 3
+/2019/02/23/pelatihan-fotografi-prd-paguyuban-kse-usu/ 1 12836 1 1
+/2019/03/23/opening-bina-desa/ 2 26679 2 1
+/2019/page/3/ 1 13495 0 0
+/wp-admin/admin-post.php 3 0 2 0
+/2019/05/09/dibalik-uang-600-ribu-6/ 1 13974 1 0
+/wp-config.php 2 0 2 2
+/tag/karya-salemba-empat/ 3 38514 2 2
+END_SIDER

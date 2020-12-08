@@ -1,0 +1,3 @@
+[/home/paguyuba/public_html]
+htaccess_list = /home/paguyuba/public_html/wp-content/uploads/wc-logs/.htaccess,/home/paguyuba/public_html/wp-content/uploads/woocommerce_uploads/.htaccess,/home/paguyuba/public_html/.htaccess
+

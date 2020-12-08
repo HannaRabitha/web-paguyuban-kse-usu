@@ -1,0 +1,91 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id KHn9CwEM8Vx8sx0AZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Fri, 31 May 2019 19:12:01 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Fri, 31 May 2019 19:12:01 +0800
+Received: from mailnull by sgz9.cloudhost.id with local (Exim 4.91)
+	id 1hWfS4-008DrX-Ur
+	for paguyuba@sgz9.cloudhost.id; Fri, 31 May 2019 19:12:01 +0800
+X-Failed-Recipients: tony.sunshine@yandex.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sgz9.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1559301120-eximdsn-1871265002
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hWfS4-008DrX-Ur@sgz9.cloudhost.id>
+Date: Fri, 31 May 2019 19:12:00 +0800
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1559301120-eximdsn-1871265002
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tony.sunshine@yandex.ru
+    host 4403.smtp.antispamcloud.com [149.5.95.75]
+    SMTP error from remote mail server after MAIL FROM:<paguyuba@sgz9.cloudhost.id> SIZE=2109 AUTH=paguyuba@sgz9.cloudhost.id:
+    550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+    550-Called:   103.134.152.1
+    550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+    550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+    550-550 authenticate and try again.
+    550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559301120-eximdsn-1871265002
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sgz9.cloudhost.id
+
+Action: failed
+Final-Recipient: rfc822;tony.sunshine@yandex.ru
+Status: 5.0.0
+Remote-MTA: dns; 4403.smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+ 550-Called:   103.134.152.1
+ 550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+ 550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+ 550-550 authenticate and try again.
+ 550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559301120-eximdsn-1871265002
+Content-type: message/rfc822
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.91)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hWfRK-008CcA-Lw
+	for tony.sunshine@yandex.ru; Fri, 31 May 2019 19:11:14 +0800
+To: tony.sunshine@yandex.ru
+Subject: [Paguyuban KSE USU] Atur Ulang Sandi
+X-PHP-Script: paguyubankseusu.org/wp-login.php for 185.238.1.175
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Fri, 31 May 2019 11:11:14 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <6b6fa6939cc45039c46c80c6293e39cb@paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Seseorang telah meminta atur ulang sandi untuk akun berikut:
+
+Nama Situs: Paguyuban KSE USU
+
+Nama pengguna: tony.sunshine@yandex.ru
+
+Jika ini adalah sebuah kesalahan, abaikan email ini dan tidak ada yang akan terjadi.
+
+Untuk mengatur ulang sandi Anda, kunjungi alamat berikut:
+
+<http://www.paguyubankseusu.org/wp-login.php?action=rp&key=PnXeAqwcjoyGKqNFFZ7c&login=tony.sunshine%40yandex.ru>
+
+
+--1559301120-eximdsn-1871265002--

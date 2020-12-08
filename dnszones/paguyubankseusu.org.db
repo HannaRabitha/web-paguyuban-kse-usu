@@ -1,0 +1,29 @@
+; cPanel first:78.0.13 (update_time):1556924867 Cpanel::ZoneFile::VERSION:1.3 hostname:sgz9.cloudhost.id latest:78.0.21
+; Zone file for paguyubankseusu.org
+$TTL 14400
+paguyubankseusu.org.	86400	IN	SOA	ns01.cloudhost.id.	admin.nightkidz.net.	(
+						2019050300 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+
+paguyubankseusu.org.	86400	IN	NS	ns01.cloudhost.id.
+paguyubankseusu.org.	86400	IN	NS	ns02.cloudhost.id.
+
+
+paguyubankseusu.org.	14400	IN	A	103.134.152.1
+
+paguyubankseusu.org.	14400	IN	MX	0	paguyubankseusu.org.
+
+mail	14400	IN	CNAME	paguyubankseusu.org.
+www	14400	IN	CNAME	paguyubankseusu.org.
+ftp	14400	IN	A	103.134.152.1
+paguyubankseusu.org.	14400	IN	TXT	"v=spf1 ip4:103.134.152.1 +a +mx ~all"
+cpcontacts	14400	IN	A	103.134.152.1
+cpanel	14400	IN	A	103.134.152.1
+webmail	14400	IN	A	103.134.152.1
+whm	14400	IN	A	103.134.152.1
+webdisk	14400	IN	A	103.134.152.1
+cpcalendars	14400	IN	A	103.134.152.1
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5NfsOhq0K03o/QGClzM1nFK/FvbOadVsOEweg2QCYvn+n4ufo+sqNBDGRmIwH4iJ1AEg6IfyiBuo69hFZSgY4dcIScLX5gVAZuV2qk8kG/CfBnwxYJBtfJ/6qT4jKrv9NVEyhG1qJ3L+Zynl5sCn5+zh3d1f8h19FrWH+FNRt9ZQslHUfdmTqlGjNFjz22Kdf" 0d9fyVcfp8Yj/c+iMI1a9qItlTuwb0iuGD3Hj7LV1gs6B5NLTu/TCzSm3TYp2sEwDmsklH1zA9mbH/wlvi72hYW39hwbFkjJrKWcdMOpT0aUalXBuvzUnv+l2zg/UIyNcIG+Z7hRmPDqbYZAsOwswIDAQAB\;

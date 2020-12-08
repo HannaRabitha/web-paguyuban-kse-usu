@@ -1,0 +1,79 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id SFZOE1uk+1zAOAAAZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Sat, 08 Jun 2019 20:04:43 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Sat, 08 Jun 2019 20:04:43 +0800
+Received: from mailnull by sgz9.cloudhost.id with local (Exim 4.92)
+	id 1hZa5S-0004s3-7g
+	for paguyuba@sgz9.cloudhost.id; Sat, 08 Jun 2019 20:04:42 +0800
+X-Failed-Recipients: paguyubankseusu1819@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sgz9.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1559995482-eximdsn-1083191837
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hZa5S-0004s3-7g@sgz9.cloudhost.id>
+Date: Sat, 08 Jun 2019 20:04:42 +0800
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1559995482-eximdsn-1083191837
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  paguyubankseusu1819@gmail.com
+    host 4403.smtp.antispamcloud.com [209.126.110.250]
+    SMTP error from remote mail server after MAIL FROM:<paguyuba@sgz9.cloudhost.id> SIZE=1878 AUTH=paguyuba@sgz9.cloudhost.id:
+    550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+    550-Previous (cached) callout verification failure
+    550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559995482-eximdsn-1083191837
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sgz9.cloudhost.id
+
+Action: failed
+Final-Recipient: rfc822;paguyubankseusu1819@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 4403.smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+ 550-Previous (cached) callout verification failure
+ 550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1559995482-eximdsn-1083191837
+Content-type: message/rfc822
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.92)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hZa2T-0007ON-QY
+	for paguyubankseusu1819@gmail.com; Sat, 08 Jun 2019 20:01:37 +0800
+To: paguyubankseusu1819@gmail.com
+Subject: [Paguyuban KSE USU] Pendaftaran Pengguna Baru
+X-PHP-Script: paguyubankseusu.org/wp-admin/admin-ajax.php for 185.238.1.181
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Sat, 8 Jun 2019 12:01:37 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <42a690ad25a505eb45329146e8ced8b0@paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Pendaftaran pengguna baru pada situs Anda Paguyuban KSE USU:
+
+Nama pengguna: redrenderinfo@redchan.it
+
+Email: redrenderinfo@redchan.it
+
+
+--1559995482-eximdsn-1083191837--

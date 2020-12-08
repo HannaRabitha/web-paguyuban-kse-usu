@@ -1,0 +1,52 @@
+2019-02-18T01:44:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\js_composer\config\content\vc-icon-element.php on line 2
+
+2019-02-18T01:48:30+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\themes\dt-the7\inc\extensions\options-framework\options-media-uploader.php on line 13
+
+2019-02-18T01:59:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-admin\includes\file.php on line 87
+
+2019-02-18T02:10:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\themes\dt-the7\inc\mods\mega-menu\class-edit-menu-walker.php on line 7
+
+2019-02-18T02:11:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\Ultimate_VC_Addons\modules\ultimate_ihover.php on line 2
+
+2019-02-18T02:12:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\themes\dt-the7\inc\mods\compatibility\woocommerce\front\mod-wc-template-functions.php on line 4
+
+2019-02-18T02:13:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\go_pricing\includes\globals\animation.php on line 8
+
+2019-02-18T02:17:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\lib\fields\icon-picker\icon-picker.php on line 9
+
+2019-02-18T02:18:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\modules\modal\themes\free-ebook.php on line 8
+
+2019-02-18T02:19:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\smile-framework.php on line 122
+
+2019-02-18T02:20:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-includes\functions.php on line 4883
+
+2019-02-18T02:21:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\cp-geolite-integration.php on line 13
+
+2019-02-18T05:10:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\functions\functions.admin.php on line 8
+
+2019-02-18T05:24:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-includes\pomo\mo.php on line 262
+
+2019-02-18T20:44:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\js_composer\include\classes\core\access\class-vc-role-access.php on line 2
+
+2019-02-18T22:03:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\dt-the7-core\includes\the7pt-update-functions.php on line 4
+
+2019-02-18T22:03:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\themes\dt-the7\inc\shortcodes\vc-bridges\the7-vc-pie-bridge.php on line 4
+
+2019-02-18T22:04:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\js_composer\include\params\iconpicker\iconpicker.php on line 2
+
+2019-02-18T22:04:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\js_composer\include\classes\shortcodes\vc-tabs.php on line 2
+
+2019-02-18T22:08:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\classes\class-cpimport.php on line 8
+
+2019-02-18T22:12:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\dt-the7-core\mods\portfolio\public\shortcodes\portfolio-slider\portfolio-slider.php on line 8
+
+2019-02-18T22:13:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-includes\class-wp-theme.php on line 1018
+
+2019-02-18T22:13:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\themes\dt-the7\inc\admin\theme-options\options-header\button-micro-widgets.php on line 3
+
+2019-02-18T22:14:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-includes\class-wp-theme.php on line 1018
+
+2019-02-18T22:58:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\convertplug\framework\functions\component-count-down.php on line 8
+
+2019-02-18T23:05:07+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\APPS\xampp\htdocs\paguyubankseusu\wp-content\plugins\js_composer\include\autoload\class-vc-settings-presets.php on line 2
+

@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/paguyuba/public_html
+group: paguyuba
+hascgi: 1
+homedir: /home/paguyuba
+ip: 103.134.152.1
+ipv6: ~
+owner: cdi
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@paguyubankseusu.org
+serveralias: mail.paguyubankseusu.org www.paguyubankseusu.org
+servername: paguyubankseusu.org
+ssl: 1
+usecanonicalname: 'Off'
+user: paguyuba
+userdirprotect: ''

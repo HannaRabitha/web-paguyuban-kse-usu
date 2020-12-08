@@ -1,0 +1,123 @@
+Return-Path: <>
+Delivered-To: paguyuba@sgz9.cloudhost.id
+Received: from sgz9.cloudhost.id
+	by sgz9.cloudhost.id with LMTP
+	id CFnSAyQzw1wqUy8AZMGrZA
+	(envelope-from <>)
+	for <paguyuba@sgz9.cloudhost.id>; Sat, 27 Apr 2019 00:34:44 +0800
+Return-path: <>
+Envelope-to: paguyuba@sgz9.cloudhost.id
+Delivery-date: Sat, 27 Apr 2019 00:34:44 +0800
+Received: from mailnull by sgz9.cloudhost.id with local (Exim 4.91)
+	id 1hK3oB-00D1Bq-Sa
+	for paguyuba@sgz9.cloudhost.id; Sat, 27 Apr 2019 00:34:43 +0800
+X-Failed-Recipients: paguyubankseusu1819@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sgz9.cloudhost.id>
+To: paguyuba@sgz9.cloudhost.id
+Content-Type: multipart/report; report-type=delivery-status; boundary=1556296483-eximdsn-760403342
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1hK3oB-00D1Bq-Sa@sgz9.cloudhost.id>
+Date: Sat, 27 Apr 2019 00:34:43 +0800
+X-From-Rewrite: unmodified, actual sender is mailnull
+
+--1556296483-eximdsn-760403342
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  paguyubankseusu1819@gmail.com
+    host 4403.smtp.antispamcloud.com [38.89.254.156]
+    SMTP error from remote mail server after MAIL FROM:<paguyuba@sgz9.cloudhost.id> SIZE=3870 AUTH=paguyuba@sgz9.cloudhost.id:
+    550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+    550-Called:   103.134.152.1
+    550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+    550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+    550-550 authenticate and try again.
+    550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1556296483-eximdsn-760403342
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sgz9.cloudhost.id
+
+Action: failed
+Final-Recipient: rfc822;paguyubankseusu1819@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; 4403.smtp.antispamcloud.com
+Diagnostic-Code: smtp; 550-Verification failed for <paguyuba@sgz9.cloudhost.id>
+ 550-Called:   103.134.152.1
+ 550-Sent:     RCPT TO:<paguyuba@sgz9.cloudhost.id>
+ 550-Response: 550-You do not have sufficient privileges to send mail to this address.  Please
+ 550-550 authenticate and try again.
+ 550 Invalid sender <paguyuba@sgz9.cloudhost.id>
+
+--1556296483-eximdsn-760403342
+Content-type: message/rfc822
+
+Return-path: <paguyuba@sgz9.cloudhost.id>
+Received: from paguyuba by sgz9.cloudhost.id with local (Exim 4.91)
+	(envelope-from <paguyuba@sgz9.cloudhost.id>)
+	id 1hK1x8-00BZ4y-Tk
+	for paguyubankseusu1819@gmail.com; Fri, 26 Apr 2019 22:35:50 +0800
+To: paguyubankseusu1819@gmail.com
+Subject: [Paguyuban KSE USU] Mohon moderasi: "Penerimaan Beasiswa Tahun Akademik 2019-2020"
+X-PHP-Script: www.paguyubankseusu.org/wp-comments-post.php for 108.62.3.46
+X-PHP-Originating-Script: 1007:class-phpmailer.php
+Date: Fri, 26 Apr 2019 14:35:50 +0000
+From: WordPress <wordpress@paguyubankseusu.org>
+Message-ID: <e42e3222b62d178904b2a52db7b3638e@www.paguyubankseusu.org>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Satu komentar baru pada pos "Penerimaan Beasiswa Tahun Akademik 2019-2020" menunggu persetujuan Anda
+http://www.paguyubankseusu.org/2019/03/09/penerimaan-beasiswa-2019-2020/
+
+Penulis: Pamir (alamat IP: 108.62.3.46, 108.62.3.46)
+Email: partogripa@gmail.com
+URL: https://make-success.com
+Komentar: 
+Hi!  paguyubankseusu.org 
+ 
+We suggest 
+ 
+Sending your business proposition through the Contact us form which can be found on the sites in the contact partition. Contact form are filled in by our program and the captcha is solved. The superiority of this method is that messages sent through feedback forms are whitelisted. This method increases the probability that your message will be read. Mailing is done in the same way as you received this message. 
+Your  commercial offer will be seen by millions of site administrators and those who have access to the sites! 
+ 
+The cost of sending 1 million messages is $ 49 instead of $ 99. (you can select any country or country domain) 
+All USA - (10 million messages sent) - $399 instead of $699 
+All Europe (7 million messages sent)- $ 299 instead of $599 
+All sites in the world (25 million messages sent) - $499 instead of $999 
+ 
+ 
+Discounts are valid until April 30. 
+Feedback and warranty! 
+Delivery report! 
+In the process of sending messages we don't break the rules GDRP. 
+ 
+This message is automatically generated to use our contacts for communication. 
+ 
+ 
+ 
+Contact us. 
+Telegram - @FeedbackFormEU 
+Skype – FeedbackForm2019 
+Email - FeedbackForm@make-success.com 
+ 
+ 
+All the best
+
+Setujui ini: http://www.paguyubankseusu.org/wp-admin/comment.php?action=approve&c=12#wpbody-content
+Buang ke sampah: http://www.paguyubankseusu.org/wp-admin/comment.php?action=trash&c=12#wpbody-content
+Spam ini: http://www.paguyubankseusu.org/wp-admin/comment.php?action=spam&c=12#wpbody-content
+Saat ini 1 komentar sedang menunggu persetujuan. Silakan kunjungi panel moderasi:
+http://www.paguyubankseusu.org/wp-admin/edit-comments.php?comment_status=moderated#wpbody-content
+
+
+--1556296483-eximdsn-760403342--

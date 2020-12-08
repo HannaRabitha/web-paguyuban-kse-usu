@@ -1,0 +1,26 @@
+--- 
+customlog: 
+  - 
+    format: combined
+    target: /etc/apache2/logs/domlogs/paguyubankseusu.org
+  - 
+    format: "\"%{%s}t %I .\\n%{%s}t %O .\""
+    target: /etc/apache2/logs/domlogs/paguyubankseusu.org-bytes_log
+documentroot: /home/paguyuba/public_html
+group: paguyuba
+hascgi: 1
+homedir: /home/paguyuba
+ip: 103.134.152.1
+owner: cdi
+phpopenbasedirprotect: 1
+phpversion: ea-php56
+port: 80
+scriptalias: 
+  - 
+    path: /home/paguyuba/public_html/cgi-bin
+    url: /cgi-bin/
+serveradmin: webmaster@paguyubankseusu.org
+serveralias: mail.paguyubankseusu.org www.paguyubankseusu.org
+servername: paguyubankseusu.org
+usecanonicalname: 'Off'
+user: paguyuba

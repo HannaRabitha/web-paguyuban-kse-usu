@@ -1,0 +1,600 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/paguyuba/tmp/awstats/ssl/awstats.paguyubankseusu.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2020                
+POS_TIME 2698                
+POS_VISITOR 10956               
+POS_DAY 13953               
+POS_DOMAIN 3515                
+POS_LOGIN 3880                
+POS_ROBOT 4035                
+POS_WORMS 4538                
+POS_EMAILSENDER 4669                
+POS_EMAILRECEIVER 4812                
+POS_SESSION 14630               
+POS_SIDER 14825               
+POS_FILETYPES 4947                
+POS_DOWNLOADS 5334                
+POS_OS 5382                
+POS_BROWSER 5591                
+POS_SCREENSIZE 6449                
+POS_UNKNOWNREFERER 6523                
+POS_UNKNOWNREFERERBROWSER 6811                
+POS_ORIGIN 7094                
+POS_SEREFERRALS 7239                
+POS_PAGEREFS 7423                
+POS_SEARCHWORDS 10187               
+POS_KEYWORDS 10339               
+POS_MISC 2362                
+POS_ERRORS 10398               
+POS_CLUSTER 3736                
+POS_SIDER_404 10546               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401022341 67 21061 9560278238658
+FirstTime 20190301050746
+LastTime 20190331231637
+LastUpdate 20190401203936 67 0 66 0 0
+TotalVisits 109                 
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 83                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 7 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 18945 43 90 1216863
+1 5 5 19397 19 27 492258
+2 2 2 0 17 30 2012032
+3 7 13 407793 63 87 3897723
+4 19 113 7254847 10 41 2835623
+5 123 179 5269491 15 23 490522
+6 31 141 1528682 3 8 67397
+7 231 387 3162294 36 83 769921
+8 78 175 2339137 13 38 601879
+9 76 149 1615125 12 30 449596
+10 17 194 5146033 27 80 941591
+11 12 48 2570089 9 13 817370
+12 5 35 1938489 4 13 204510
+13 4 82 3656920 2 48 4695674
+14 8 188 3339851 3 6 47516
+15 4 9 1299128 14 17 110396
+16 1 19 3425226 12 34 5280163
+17 10 24 5510236 13 23 4830929
+18 12 93 4114200 10 36 9377245
+19 12 59 2580832 20 31 1735083
+20 4 25 752335 17 20 85258
+21 6 17 2147963 13 26 326995
+22 0 13 539430 0 5 2682579
+23 16 160 4578512 9 50 1821657
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+id 427 1316 31503986
+us 106 351 13393158
+in 61 61 0
+cl 55 83 2577185
+de 25 116 7692689
+cn 7 201 7761580
+fr 2 2 172836
+gr 1 1 0
+gb 1 1 18945
+eu 1 1 94576
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+Googlebot/ 351 3161500 20190331133833 32
+MJ12bot/ 181 7853865 20190326130332 5
+Googlebot\-Image/ 81 27510566 20190329082219 0
+bingbot/ 22 271835 20190331140744 8
+facebookexternalhit/ 5 2682579 20190330221404 0
+bot[\s_+:,\.\;\/\\-] 5 472808 20190327033813 0
+Wget/ 3 283709 20190311213811 0
+Python\-urllib/ 1 67 20190308070357 1
+Mediapartners-Google 1 937 20190324042527 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 17
+Unknown 169 142907 0 0
+gif 43 118557 0 0
+cgi 8 1375 0 0
+html 153 3601529 0 0
+jpeg 11 1373395 0 0
+js 454 7807070 0 0
+png 226 1609298 0 0
+woff 49 1248316 0 0
+php 187 908245 0 0
+eot 52 1740704 0 0
+css 414 7265210 0 0
+jpg 255 33587755 0 0
+ttf 43 1393632 0 0
+xml 2 2090 0 0
+woff2 20 918480 0 0
+pl 3 8189 0 0
+svg 44 1488203 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 715 25
+macosx12 10 10
+win7 122 25
+macosx 1 1
+linux 86 25
+win10 784 404
+winxp 233 115
+Unknown 68 67
+ios_iphone 113 13
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+chrome72.0.3626.121 28 1
+chrome56.0.2924.87 66 6
+msie10.0 116 25
+chrome66.0.3359.158 7 0
+firefox52.0 66 4
+chrome5.0.375.99 1 1
+safari11.0.3 1 1
+chrome70.0.3538.110 7 0
+chrome70.0.3538.64 7 0
+chrome52.0.2743.116 1 1
+chrome73.0.3683.75 19 0
+opera9.00 1 1
+chrome72.0.3626.105 126 6
+chrome59.0.3071.104 17 17
+chrome69.0.3497.100 5 0
+msie8.0 166 110
+chrome68.0.3440.91 5 0
+chrome55.0.2883.91 25 0
+android 1 1
+chrome70.0.3538.67 14 0
+chrome60.0.3112.50 47 5
+chrome67.0.3396.87 7 0
+chrome66.0.3359.126 13 0
+chrome63.0.3239.111 12 0
+safari12.0 107 13
+chrome72.0.3626.119 692 391
+safari11.0 6 0
+Unknown 68 67
+chrome61.0.3163.100 9 9
+chrome66.0.3359.181 6 6
+firefox66.0 84 5
+chrome38.0.1025.166 164 4
+chrome64.0.3282.137 7 0
+opera37.0.2192.110129 216 8
+firefox58.0 3 3
+chrome60.0.3112.113 1 1
+chrome46.0.2490.76 12 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+WordPress/4.9.10;_https://www.paguyubankseusu.org 20190331175244
+python-requests/2.18.3 20190308070356
+WordPress/4.9.9;_https://www.paguyubankseusu.org 20190313153709
+Go-http-client/2.0 20190329112929
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+WordPress/4.9.10;_https://www.paguyubankseusu.org 20190331175244
+Go-http-client/2.0 20190329112929
+WordPress/4.9.9;_https://www.paguyubankseusu.org 20190313153709
+python-requests/2.18.3 20190308070356
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 171 240
+From1 0 0
+From2 10 10
+From3 389 683
+From4 116 1200
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 9 9
+www_google_co_id 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 25
+https://cpanel.paguyubankseusu.org 204 291
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 43 53
+https://webmail.paguyubankseusu.org/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 40 50
+https://cpanel.paguyubankseusu.org/cpsess7028282252/frontend/paper_lantern/filemanager/index.html 30 54
+https://webmail.paguyubankseusu.org/cPanel_magic_revision_1551048317/unprotected/cpanel/style_v2_optimized.css 15 30
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551048317/unprotected/cpanel/style_v2_optimized.css 15 37
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551048318/frontend/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 10 10
+https://cpanel.paguyubankseusu.org/cpsess7028282252/frontend/paper_lantern/filemanager/editit.html 7 14
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551048318/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 5 5
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/open_sans.min.css 5 5
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1517872139/frontend/paper_lantern/libraries/fontawesome/web-fonts-with-css/css/fontawesome-all.min.css 4 4
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1392312282/frontend/paper_lantern/libraries/bootstrap/optimized/css/bootstrap.min.css 2 2
+https://cpanel.paguyubankseusu.org/cpsess7028282252/awstats.pl 2 27
+https://mail.paguyubankseusu.org 2 2
+https://cpanel.paguyubankseusu.org/cpsess7028282252/frontend/paper_lantern/sql/index.html 2 2
+https://cpanel.paguyubankseusu.org/cpsess7028282252/frontend/paper_lantern/filemanager/upload-ajax.html 2 5
+https://cpanel.paguyubankseusu.org/unprotected/loader.html 1 1
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551048317/cjt/css/ajaxapp-min.css 0 2
+https://webmail.paguyubankseusu.org 0 3
+https://cpanel.paguyubankseusu.org/cpsess7028282252/tmp/paguyuba/webalizer/index.html 0 1
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1455824270/frontend/paper_lantern/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551047151/cjt/css/datatable.css 0 8
+https://cpanel.paguyubankseusu.org/styled/current_style/sprites/icon_spritemap.css 0 4
+https://cpanel.paguyubankseusu.org/cPanel_magic_revision_1551048317/frontend/paper_lantern/filemanager/css/tree_styles2_optimized.css 0 1
+https://cpanel.paguyubankseusu.org/cpsess7028282252/3rdparty/phpMyAdmin/phpmyadmin.css.php 0 71
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+404 42 426014
+301 95 2468
+401 53 1649867
+308 1 85
+400 2 2
+206 9 1463695
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/contact-form-7/v1 2 https://www.paguyubankseusu.org/
+/.well-known/assetlinks.json 4 -
+/ads.txt 36 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 83
+180.241.45.151 391 692 5936041 20190301094904
+103.134.152.1 61 61 0 20190331175244
+104.224.65.220 55 83 2576952 20190301050815
+191.101.200.142 55 83 2577185 20190301050845
+87.166.58.170 13 55 3541834 20190301122106
+115.178.194.189 13 107 7237052 20190327040812
+87.166.59.130 12 61 4150855 20190311195016
+13.57.233.99 9 9 171349 20190329214856
+116.206.31.44 7 129 3293262 20190329102311
+112.215.230.81 6 66 2059936 20190331231637
+202.0.107.125 6 155 4654376 20190328184232
+18.188.142.77 5 48 731039 20190308070401
+202.80.216.133 5 84 2242495 20190325231450
+202.0.107.130 4 66 3162597 20190326131308
+66.102.6.24 2 39 1054851 20190329105040
+69.4.87.74 2 2 189102 20190310101825
+18.237.155.64 1 1 0 20190329112929
+13.56.233.142 1 1 0 20190303202618
+130.211.237.65 1 8 2707514 20190330175104
+93.119.227.91 1 1 94576 20190311213811
+34.209.238.102 1 1 0 20190312090419
+54.201.42.158 1 1 19328 20190331105056
+35.184.2.87 1 1 19323 20190328174646
+35.226.121.32 1 1 19399 20190327054141
+54.71.95.205 1 1 0 20190322085241
+36.76.82.56 0 7 244490 
+64.233.172.146 0 14 272237 
+116.206.31.57 0 7 244225 
+64.233.172.148 0 14 149590 
+66.102.6.22 0 43 640037 
+116.206.38.46 0 11 2016238 
+180.241.45.35 1 1 905 20190310185406
+35.192.171.66 1 1 19324 20190330054832
+34.215.2.232 1 1 416 20190301055040
+66.102.6.26 1 39 1559740 20190325145757
+35.226.165.21 1 1 19327 20190331055053
+35.226.0.167 1 1 19329 20190328054621
+103.10.64.7 1 26 382732 20190331080017
+116.206.30.55 0 7 244490 
+34.220.98.99 1 1 17795 20190302041855
+35.239.91.97 1 1 19326 20190329174923
+35.222.139.119 1 1 17809 20190305212118
+112.215.229.141 0 6 370855 
+62.4.14.198 1 1 86420 20190301145727
+114.125.24.70 0 7 244490 
+35.238.51.54 1 1 19341 20190329054546
+54.184.202.191 1 1 17807 20190303032242
+115.178.200.132 0 15 579965 
+112.215.229.208 0 6 240084 
+35.224.239.162 1 1 19404 20190326173954
+34.215.88.107 1 1 0 20190309084342
+145.239.252.96 1 1 18945 20190310000935
+114.4.213.179 0 7 244490 
+54.191.1.176 1 1 0 20190318090337
+112.215.230.186 0 6 240084 
+54.245.204.11 1 1 19310 20190330100913
+61.157.96.18 0 6 370590 
+64.233.172.144 1 15 233841 20190331084134
+114.5.209.221 0 13 539430 
+18.215.68.164 1 1 17585 20190301083714
+182.1.37.217 0 5 238882 
+115.178.193.42 0 12 1504556 
+116.206.38.59 0 7 244490 
+35.225.33.98 1 1 19334 20190327174253
+182.1.60.95 0 5 238882 
+35.225.239.28 1 1 19405 20190310104933
+178.128.233.240 1 1 0 20190302044647
+35.225.94.71 1 1 19397 20190326233159
+180.241.44.218 0 6 240084 
+34.211.192.42 1 1 416 20190301053757
+23.251.147.60 1 1 19396 20190319034408
+104.198.134.231 1 1 19403 20190326101606
+115.178.223.113 0 5 173963 
+35.192.65.209 1 1 19397 20190314152836
+116.206.31.60 0 14 488980 
+116.206.38.50 0 6 370855 
+116.206.30.51 0 14 488450 
+120.188.6.185 0 7 244490 
+35.239.24.156 1 8 2707519 20190331175247
+51.255.109.172 1 1 86416 20190302141200
+182.1.15.235 0 5 238882 
+114.5.146.78 0 7 244225 
+34.209.41.111 1 1 17816 20190302170443
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20190301 518 922 14910812 9
+20190302 6 6 122027 5
+20190303 3 3 35609 3
+20190304 1 1 0 1
+20190305 1 1 17809 1
+20190307 1 1 17802 1
+20190308 5 48 731039 1
+20190309 3 3 0 3
+20190310 6 6 247757 5
+20190311 18 67 4245431 5
+20190312 1 7 370590 1
+20190313 2 2 19400 2
+20190314 2 2 19397 2
+20190316 4 4 19395 4
+20190317 2 2 0 1
+20190318 2 2 0 2
+20190319 2 2 19396 2
+20190320 3 3 19397 3
+20190322 3 49 2722070 2
+20190323 4 4 19411 4
+20190324 5 5 0 5
+20190325 19 186 4898246 7
+20190326 14 113 7393291 8
+20190327 19 199 7527828 7
+20190328 12 105 4796509 6
+20190329 14 191 4918092 8
+20190330 4 32 3479088 4
+20190331 12 167 6664559 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 1
+1h+ 6
+30s-2mn 6
+15mn-30mn 1
+30mn-1h 3
+0s-30s 92
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 139
+/ 66 1848875 58 49
+/wp-cron.php 61 0 43 43
+/cpsess7028282252/execute/Notifications/get_notifications_count 52 4018 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/index.php 34 111992 0 0
+/cpsess7028282252/json-api/cpanel 34 99380 0 0
+/cpsess7028282252/execute/Personalization/get 19 3078 0 0
+/cpsess7028282252/frontend/paper_lantern/ 18 659878 1 0
+/cpsess7028282252/3rdparty/phpMyAdmin/ajax.php 18 25266 0 0
+/cpsess7028282252/execute/Resellers/list_accounts 18 2898 0 0
+/cpsess7028282252/execute/ResourceUsage/get_usages 18 12890 0 2
+/cpsess7028282252/execute/Themes/list 18 2034 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/sql.php 18 155836 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/navigation.php 9 20882 0 0
+/cpsess7028282252/backend/piegraph.cgi 6 1336 0 0
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-solid-900.woff2 6 474600 0 1
+/cpsess7028282252/3rdparty/phpMyAdmin/phpmyadmin.css.php 6 124200 0 0
+/wp-content/themes/dt-the7/fonts/icomoon-the7-microwidgets-16x16/fonts/icomoon-the7-microwidgets-16x16.ttf 6 32160 0 1
+/cpsess7028282252/3rdparty/phpMyAdmin/js/messages.php 6 55986 0 0
+/wp-content/themes/dt-the7/fonts/icomoon-the7-social/fonts/icomoon-the7-social-icons-16x16.ttf 6 72816 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/js/whitelist.php 6 342 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/db_structure.php 6 58363 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/ 5 128173 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/PhpMyAdmin.html 5 41733 0 0
+/cpsess7028282252/frontend/paper_lantern/softaculous/index.live.php 5 22830 0 0
+/pendaftaran/ 5 54785 1 4
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.woff2 2 77520 0 0
+/cpsess7028282252/frontend/paper_lantern/stats/webalizer_landing.html 1 8698 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/tbl_replace.php 4 51910 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.woff 2 49136 0 0
+/wp-content/themes/dt-the7/fonts/icomoon-arrows-the7/fonts/icomoon-arrows-carousel-32x32.ttf 4 28544 0 0
+/wp-content/themes/dt-the7/ 2 0 0 2
+/cpsess7028282252/3rdparty/phpMyAdmin/db_operations.php 3 19872 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/wizard4.html 1 8548 0 0
+/wp-includes/wlwmanifest.xml 2 2090 0 0
+/cpsess7028282252/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 27256 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 2 45320 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/managehost.html 1 9203 0 0
+/cpsess7028282252/frontend/paper_lantern/stats/awstats_landing.html 1 8639 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.woff 2 44496 0 0
+/wp-json/oembed/1.0/embed 4 9182 0 0
+/cpsess7028282252/frontend/paper_lantern/diskusage/ 1 10970 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.ttf 2 76904 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/import.php 1 7494 0 0
+/2019/02/17/hut-paguyuban-kse-usu/ 1 12980 0 0
+/cpsess7028282252/execute/Fileman/upload_files 1 399 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.ttf 2 78152 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/wizard1.html 2 44335 0 0
+/cpsess7028282252/execute/Fileman/list_files 1 224 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.woff 2 97408 0 0
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 3 69960 0 0
+/cpsess7028282252/frontend/paper_lantern/statmanager/ 1 9642 0 0
+/cpsess7028282252/frontend/paper_lantern/filemanager/ 3 53217 0 0
+/login/ 1 122 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.woff 2 46096 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/db_import.php 1 6695 0 0
+/cPanel_magic_revision_1392312282/frontend/paper_lantern/libraries/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 2 46640 0 0
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 3 67296 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.eot 4 78176 2 0
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 3 67980 0 0
+/profil/struktur-paguyuban/ 1 10552 0 1
+/cpsess7028282252/awstats.pl 3 8189 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.ttf 2 196768 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.ttf 2 78952 0 0
+/feed/ 2 34906 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67980 0 0
+/wp-content/themes/dt-the7/fonts/icomoon-the7-gallery-32x32/fonts/icomoon-the7-photo-32x32.ttf 1 4352 0 0
+/cPanel_magic_revision_1517872139/frontend/paper_lantern/libraries/fontawesome/web-fonts-with-css/webfonts/fa-regular-400.woff2 2 24432 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/checkdb.html 1 8806 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/clearcache.php 1 43 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 2 44864 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.eot 4 394480 0 0
+/wp-content/plugins/convertplug/modules/slide_in/assets/demos/ 2 0 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.ttf 2 76824 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/tbl_row_action.php 2 228043 0 0
+/blog/ 1 14989 0 0
+/cpsess7028282252/frontend/paper_lantern/integration/ 2 18054 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.eot 4 80112 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.eot 4 82140 0 0
+/comments/feed/ 1 758 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-ExtraBold-webfont.woff 1 23764 0 0
+/unprotected/redirect.html 1 513 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.eot 4 86304 0 0
+/cpsess7028282252/frontend/paper_lantern/ssl/ 1 8891 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.ttf 2 80504 0 0
+/cpsess7028282252/frontend/paper_lantern/stats/lastvisitors_landing.html 4 34597 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/db_events.php 1 2405 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.eot 4 81060 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.eot 4 408608 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.eot 4 83848 0 0
+/wp-content/themes/dt-the7/fonts/FontAwesome/webfonts/fa-regular-400.woff2 1 14872 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.eot 4 83420 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-solid-900.ttf 2 203864 0 2
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Italic-webfont.woff 1 23188 0 0
+/2019/03/01/post-2/ 1 12786 0 1
+/cpsess7028282252/frontend/paper_lantern/sql/wizard2.html 1 9844 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 67296 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBoldItalic-webfont.ttf 2 86840 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.ttf 2 76464 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/userrights/ 1 9794 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/db_routines.php 1 2053 0 0
+/wp-json/ 2 199616 0 0
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/ui-fonts/open_sans/optimized/OpenSans-Semibold-webfont.woff 2 45816 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.eot 4 78056 0 0
+/cpsess7028282252/frontend/paper_lantern/sql/wizard3.html 1 9816 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.woff2 2 108824 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-brands-400.woff 2 127432 0 0
+/cPanel_magic_revision_1551048318/frontend/paper_lantern/libraries/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2 3 116280 0 0
+/galeri/ 1 13433 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.woff 2 46800 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.woff 2 47528 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.woff2 2 24432 0 0
+/cpsess7028282252/backend/passwordstrength.cgi 2 39 0 0
+/unprotected/loader.html 2 1810 2 1
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Light-webfont.ttf 2 74672 0 0
+/cpsess7028282252/frontend/paper_lantern/home/status.html 1 9989 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-ExtraBold-webfont.ttf 2 84048 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-LightItalic-webfont.ttf 2 79912 0 0
+/cpsess7028282252/frontend/paper_lantern/stats/lastvisit.html 3 153243 0 0
+/cpsess7028282252/frontend/paper_lantern/filemanager/editit.html 2 22633 0 0
+/profil/tentang-paguyuban/ 1 10881 1 1
+/xmlrpc.php 2 1756 0 0
+/cpsess7028282252/frontend/paper_lantern/filemanager/upload-ajax.html 1 2225 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.woff 2 29432 0 0
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.eot 4 124624 0 0
+/profil/ 2 21338 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68724 0 0
+/cPanel_magic_revision_1386192032/unprotected/cpanel/fonts/open_sans/OpenSans-Italic-webfont.woff 2 46376 0 0
+/cpsess7028282252/frontend/paper_lantern/stats/bandwidth.html 1 71049 0 0
+/cpsess7028282252/download 2 6254 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.eot 4 79344 0 0
+/cpsess7028282252/frontend/paper_lantern/cpanelpro/images.html 1 8623 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-SemiboldItalic-webfont.woff 2 47528 0 0
+/profil/tentang-yayasan-kse/ 1 11558 1 1
+/cPanel_magic_revision_1517872139/unprotected/webfonts/fa-regular-400.ttf 2 61856 0 0
+/cpsess7028282252/3rdparty/phpMyAdmin/tbl_change.php 2 12277 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-BoldItalic-webfont.eot 4 80532 0 0
+/cPanel_magic_revision_1517872139/frontend/paper_lantern/libraries/fontawesome/web-fonts-with-css/webfonts/fa-solid-900.woff2 2 77520 0 0
+/cpsess7028282252/tmp/paguyuba/webalizer/ 1 1027 0 0
+/wp-json/contact-form-7/v1 2 2550 0 0
+END_SIDER
